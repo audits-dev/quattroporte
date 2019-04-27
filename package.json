@@ -1,0 +1,22 @@
+{
+  "name": "@audits/quattroporte",
+  "author": "Thomas Hodges (thomas@audits.dev)",
+  "keywords": [
+    "ethereum",
+    "solidity"
+  ],
+  "version": "1.0.0",
+  "description": "A Solidity library for uint256 to (uint64,uint64,uint64,uint64)",
+  "files": [
+    "contracts"
+  ],
+  "scripts": {
+    "test": "truffle test --network test"
+  },
+  "homepage": "https://audits.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audits-dev/quattroporte.git"
+  },
+  "license": "MIT"
+}
