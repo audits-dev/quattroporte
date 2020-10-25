@@ -5,13 +5,13 @@
     "ethereum",
     "solidity"
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Solidity library for uint256 to (uint64,uint64,uint64,uint64)",
   "files": [
     "contracts"
   ],
   "scripts": {
-    "test": "truffle test --network test"
+    "test": "truffle test"
   },
   "homepage": "https://audits.dev",
   "repository": {
